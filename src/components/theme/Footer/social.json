@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/smakosh",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/anup-bista-795aa9131/",
+    "icon": "/icons/linkedin.svg"
+  }
+]
