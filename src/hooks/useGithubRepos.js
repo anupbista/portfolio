@@ -6,7 +6,7 @@ export const useGithubRepos = () => {
       {
         github {
           viewer {
-            repositories(first: 8, orderBy: { field: STARGAZERS, direction: DESC }) {
+            repositories(first: 8, orderBy: { field: PUSHED_AT, direction: DESC }) {
               edges {
                 node {
                   id
